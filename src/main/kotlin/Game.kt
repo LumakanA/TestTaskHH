@@ -132,7 +132,7 @@ class Game {
                 monster!!.health = 0
                 monster!!.showStatus()
             } else monster!!.showStatus()
-        } else println("Атака не удалась :(")
+        } else println("Ваша атака не удалась :(")
     }
 
     //победа игрока
